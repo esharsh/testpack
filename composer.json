@@ -1,0 +1,17 @@
+{
+    "name": "esharsh/testpack",
+    "description": "A testing package which can test es apis with proper response.",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "HarshPawar"
+        }
+    ],
+    "require": {
+        "codeception/codeception": "^4.2",
+        "codeception/module-phpbrowser": "^1.0.0",
+        "codeception/module-asserts": "^1.0.0",
+        "codeception/module-rest": "^2.0",
+        "codeception/module-sequence": "^2.0"
+    }
+}
